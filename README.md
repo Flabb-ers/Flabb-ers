@@ -1,4 +1,4 @@
-# 👋 Hai, saya [Nama Kamu](https://github.com/nama-kamu)
+# 👋 Hai, saya [Dhimas Rahmat Ari Yulianto](https://github.com/Flabb-ers)
 
 ![Banner GitHub](https://link_banner_github) <!-- Ganti dengan URL gambar banner yang menarik -->
 
@@ -27,11 +27,11 @@ Saya adalah pengembang perangkat lunak dengan pengalaman dalam [sebutkan bahasa 
 
 ## 🎉 Statistik GitHub Saya
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nama-kamu&show_icons=true&hide_title=true&count_private=true&theme=radical) <!-- Ganti dengan username GitHub kamu -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flabb-ers&show_icons=true&hide_title=true&count_private=true&theme=radical) <!-- Ganti dengan username GitHub kamu -->
 
 ## 📈 Aktivitas Terakhir
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nama-kamu&theme=react-dark) <!-- Ganti dengan username GitHub kamu -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Flabb-ers&theme=react-dark) <!-- Ganti dengan username GitHub kamu -->
 
 ---
 
