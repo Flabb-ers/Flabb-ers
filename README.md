@@ -1,4 +1,4 @@
-# 👋 Hai, saya [Dhimas Rahmat Ari Yulianto](https://github.com/Flabb-ers)
+# 👋 Hai, saya [Flabbers](https://github.com/Flabb-ers)
 
 ![Banner GitHub](https://link_banner_github) <!-- Ganti dengan URL gambar banner yang menarik -->
 
@@ -19,11 +19,6 @@ Saya adalah pengembang perangkat lunak dengan pengalaman dalam [sebutkan bahasa 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-## 🎥 Proyek Terbaru
-
-- [Nama Proyek 1](https://github.com/nama-kamu/proyek-1) - Deskripsi singkat tentang proyek ini.
-- [Nama Proyek 2](https://github.com/nama-kamu/proyek-2) - Deskripsi singkat tentang proyek ini.
 
 ## 🎉 Statistik GitHub Saya
 
